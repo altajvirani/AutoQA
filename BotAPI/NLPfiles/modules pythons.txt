@@ -1,0 +1,17 @@
+﻿Consider a module to be the same as a code library.
+
+Python String module contains some constants, utility function, and classes for string manipulation.
+
+The functools module provides tools for working with functions and other callable objects, to adapt or extend them for new purposes without completely rewriting them.
+
+Itertool is a module that provides various functions that work on iterators to produce complex iterators.
+
+NumPy is a general-purpose array-processing package, which provides a high-performance multidimensional array object, and tools for working with these arrays.
+
+Pandas is an open source library in Python and it provides ready to use high-performance data structures and data analysis tools.
+
+The time module provides various time-related functions.
+
+This module is used to generate random numbers which includes some of the pre-defined functions which are randint(), choice(), uniform, etc.
+
+Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.

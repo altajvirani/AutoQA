@@ -1,0 +1,29 @@
+﻿Python is a high-level, interpreted, interactive and object-oriented scripting programming language python is designed to be highly readable It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
+
+Indentation in python refers to the spaces at the beginning of a code line.
+
+In python, comments can be used to explain Python code, make the code more readable and prevent execution when testing code.
+
+Variables are containers for storing data values.
+
+Data types refer to the type of the data which is stored in a container.
+
+You can return a range of characters from a string, list, or tuple by using the slice syntax.
+
+Lists are mutable and ordered collection of data that is used to store multiple items in a single variable.
+
+Tuples are non-mutable and ordered collection of data that is used to store multiple items in a single variable, the only difference between it and list being that tuples can;t be modified after creation.
+
+A function is a block of code which only runs when it is called, which may take data passed to them while calling the function, known as parameters.
+
+A lambda function is a small anonymous function and can take any number of arguments, but can only have one expression.
+
+In slicing, you can return a range of characters by using the slice syntax by specifying the start index and the end index, separated by a colon, to return a part of the string.
+
+With the while loop we can execute a set of statements as long as a condition is true.
+
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
+Inheritance allows us to define a class that inherits all the methods and properties from another class.
+
+The try block lets you test a block of code for errors, the except block lets you handle the error, and the finally block lets you execute code, regardless of the result of the try- and except blocks.
